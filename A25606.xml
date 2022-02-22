@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to the objections against the Earl of Danby, concerning his being accessary to the murdering of Sir Edmunbury Godfrey</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25606</idno>
+            <idno type="STC">Wing A3428</idno>
+            <idno type="STC">ESTC R226</idno>
+            <idno type="EEBO-CITATION">13413754</idno>
+            <idno type="OCLC">ocm 13413754</idno>
+            <idno type="VID">99448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99448)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 782:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to the objections against the Earl of Danby, concerning his being accessary to the murdering of Sir Edmunbury Godfrey</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Probable imprint from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678.</term>
+               <term>Leeds, Thomas Osborne, --  Duke of, 1631-1712.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:99448:1"/>
+            <!-- PDF PAGE 46 -->
+            <pb facs="tcp:99448:1"/>
+            <!-- PDF PAGE 46 -->
+            <head>AN ANSWER TO THE OBJECTIONS Againſt the Earl of Danby, <hi>Concerning his being Acceſſary to the Murdering of Sir</hi> Edmundbury Godfrey.</head>
+            <p>VVHen man by Fate, or his ill conduct, tum<g ref="char:EOLhyphen"/>bles from the Precipices of Honour, his Mole-hill Crimes ſtreight turn to Moun<g ref="char:EOLhyphen"/>tains, and his former Splendours trampled in the duſt, each man his fond Objection lays, and at his tottering Baſis levels round about; Fate ſeldom ſtrikes, but Ig<g ref="char:EOLhyphen"/>nominy waits him at the heels, and creeps into the ga<g ref="char:EOLhyphen"/>ping Wounds he makes; ſiniſter Reports, like wan<g ref="char:EOLhyphen"/>dring Atoms, glide in the vaſt track of ſouls that In<g ref="char:EOLhyphen"/>novation ſeek, and makes them think their fond Opi<g ref="char:EOLhyphen"/>nion beſt; which may be emblem'd by the turning Spheres, whenas the glorious Lamp of day deſcends beneath this Earthly Ball, the leſſer Fires diſperſe their ſeeds of light, and each takes place in a ſuperiour Orb; even thoſe that in proſperity could flatter moſt, and cringe beneath the Footſtool of a Power to ſerve their Ends, and to promote their Intereſt nothing was too much, no Obligation e're was thought too great, nor nothing done in vain that could acceptance find; Pro<g ref="char:EOLhyphen"/>teſtations and diſſembled Vows, Service, and Friend<g ref="char:EOLhyphen"/>ſhip, with a thouſand antique motions did attend. Yet theſe are but like Swallows, who whilſt warm'd with kindly rays, do chant unto each morning wake, but when the ſtorms of State grow high, and bluſtring <hi>Au<g ref="char:EOLhyphen"/>tumn</hi>'s lofty winds the mighty Cedars ſhake, each pluck
+<pb n="2" facs="tcp:99448:2"/>
+               <!-- PDF PAGE 47 -->
+a twig, and ſire from thence unto a warmer Sun, or with its weight aſſiſts the Tempeſt, till it cruſh the mighty bole, nay and aggravating Crimes to that ex<g ref="char:EOLhyphen"/>tent, though only upon weak ſuſpicion, that they ſeem more dreadful to the vulgar eye, even in their bare re<g ref="char:EOLhyphen"/>lation, than (if true) when acted at the firſt; and wounds from treacherous Friends we always know are far more grievous than from open Foes, for where a man confides, and reſts the Axis of his Soul, from thence he ever expects no ill; or if he did, he would not (if himſelf) ruſh void of fear upon premeditated ruine; yet oft 'tis ſeen in Politicks of State, when Greatneſs is detracted and made vile (the which much like an Adamantine Rock environed with Metals, heretofore could draw admiring Eyes, and make it ſelf a pleaſing proſpect) then loſes all its virtue, and regardleſs <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, whilſt its Adherents all withdraw, and, reſtleſs in th<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> motions, ſtill run biaſs to the Mighty with this C<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cter (when asked concerning their degraded Fr<gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>) <hi>'Tis true, I once was converſant with ſuch a one, b<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t <gap reason="illegible" extent="5+ letters">
+                     <desc>•••••…</desc>
+                  </gap>s paſt, and I now ſtand on ſurer ground, 'till the next <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>peſt comes, againſt which my care is to provide.</hi>
+            </p>
+            <p>Even ſo now fares it with a late conſiderable Mem<g ref="char:EOLhyphen"/>ber of our <hi>Engliſh</hi> Nation, the Earl of <hi>Danby,</hi> whoſe too aſpiring thoughts, 'tis probably conjectured, have expoſed him to theſe furious Guſts of State, which bend his Honour, and have laid him open to the ſlaunder of his private Foes; for when Ambition gets the Rains, and wilful Paſſion does o'reflow the bounds of Reaſon, it makes Proſperity a Curſe, and is the only way to heap up Foes againſt that time when Purple Greatneſs ſhall withdraw, and adverſe Fortune break the Barri<g ref="char:EOLhyphen"/>cades, and let them in like raging Torrents on every ſide, and then you may be ſure they will wreck their Spleens.</p>
+            <p>For amongſt the reſt of the Crimes already laid againſt him) one more is here objected, and impoſed on him, as he being acceſſary to the ſame; the which alone might blaſt bright fame, and render his memory deteſta<g ref="char:EOLhyphen"/>bly
+<pb n="3" facs="tcp:99448:2"/>
+               <!-- PDF PAGE 47 -->
+odious for future ages to abhor; the which is that execrable Murther of the worthy Gentleman Sir <hi>Ed<g ref="char:EOLhyphen"/>mundbury-Godfrey,</hi> a large Narration of which has been publiſhed to the World; The which upon a ſerious view is thought to have been ſuggeſted by ſome of his hereto<g ref="char:EOLhyphen"/>fore publick Friends, but now private Foes, the weight of the whole matter depending upon Circumſtances only; firſt, that becauſe he having Correſpondence with the ſaid Sir <hi>Edmundoury Godfrey</hi> concerning divers Affairs, the which tended and related to the diſcovery of the late Plot, that he upon that account ſhould contrive his Mur<g ref="char:EOLhyphen"/>der, is but a very weak inference, ſeeing that he could not well be greater than he was, and that if the <hi>Romiſh</hi> Faction had prevailed, his Honour (as it has been atteſt<g ref="char:EOLhyphen"/>ed by the Deponents that hath hitherto made any diſco<g ref="char:EOLhyphen"/>very of the ſaid Plot) was confiſcated and diſpoſed of to others; whereupon it more imported him, if it had lain in his power, to have made a froe diſcovery himſelf, or at leaſt, if Sir <hi>Edmund,</hi> who having taken the Depo<g ref="char:EOLhyphen"/>ſitions of Dr. <hi>Oates</hi> and Dr. <hi>Toung,</hi> as is objected, com<g ref="char:EOLhyphen"/>municated any thing to him, he ſhould have cloſed with his Propoſitions, and have joyned with him in ſuch a bleſſed diſcovery, had it been barely upon the account of ſecuring himſelf in what he was; for he or any reaſonable man muſt expect, if a Nation is ſubverted by Treaſon or the power of the Sword, the Conquerors will not admit any of the former Grandees to continue and execute their places of Authority, leſt they, watching their op<g ref="char:EOLhyphen"/>portunities, ſhould ſoar above them.</p>
+            <p>And farther, the Objection being made, that by reaſon Sir <hi>Edmund</hi> coming oft to the ſaid Earl of <hi>Danby</hi>'s houſe, it was more in his power than in any other to murder him; it follows not, that men which have opportunities are in<g ref="char:EOLhyphen"/>dued with ſuch Diabolick minds as to take away cauleſ<g ref="char:EOLhyphen"/>ly the lives of their Friends; but rather, if ſuch vio<g ref="char:EOLhyphen"/>lence ſhould be offered by any other, to reſiſt the Aſſaſſi<g ref="char:EOLhyphen"/>nates, and defend the Aſſaulted to his power, for Murder is ſo execrable a Crime, that ſurely no Chriſtian can think upon it without horror and amazement; and it is
+<pb n="4" facs="tcp:99448:3"/>
+               <!-- PDF PAGE 48 -->
+far beneath a generous and heroick Soul to dye his hands in innocent Blood, eſpecially: when unprovoked: Far<g ref="char:EOLhyphen"/>ther it is objected. That the ſame Morning that Sir <hi>Ed<g ref="char:EOLhyphen"/>mund</hi> was conjectured to have been murdered, he was at the ſaid Earl's houſe, and that the Earl of <hi>Danby</hi>'s Gen<g ref="char:EOLhyphen"/>tleman that day went over the Water with Sir <hi>Edmund;</hi> the which the Atteſtators of the Murder confute, declar<g ref="char:EOLhyphen"/>ing that he being watched out of his houſe by thoſe that aſſaſſinated him, and ſo directly to <hi>London</hi>-ward, about which places they traced, and with narrow obſervations followed his ſteps, ſtaying for him at ſeveral places, till at laſt it growing dark, upon his <hi>return</hi> homeward, he went into a houſe near St. <hi>Clements-Church,</hi> and that whileſt he ſtayed there they ſent one of their Accomplices to give notice at <hi>Somerſet-houſe,</hi> the other ſtill watching him; who, after he came out of that houſe, went directly towards his own home in St. <hi>Martins in the fields,</hi> whereupon the Aſſaſſinates, when he came againſt <hi>the Watergate of Somer<g ref="char:EOLhyphen"/>ſet houſe,</hi> got him in by a <hi>Stratagem,</hi> and then ſtrang led him; the which, had it been for <hi>the Earl of Danby</hi>'s <hi>in<g ref="char:EOLhyphen"/>tereſt</hi> to effect, he could probably with more convenien<g ref="char:EOLhyphen"/>cy procured it, and not have truſted ſo dangerous a Secret in the Breaſts of ſo many ill affected men, whom he might <hi>conjecture,</hi> if they had ventured it <hi>for gain or hire,</hi> might upon the like Sum and promiſe of a Pardon, declare who imployed them in ſuch a <hi>pernicious deſign;</hi> but it plainly appeared, their <hi>Priest</hi> being <hi>concerned</hi> in the ſame, and by their <hi>obſtinate denying to the last,</hi> that they were <hi>prompted</hi> on by <hi>blind Zeal</hi> to commit that horrid and execrable Crime for the <hi>propagating</hi> of the <hi>Romiſh Cauſe;</hi> and that it cannot <hi>reaſonably</hi> be thought any otherways <hi>performed,</hi> what ſuſpitions or probabilities ſoever may be offered; for no man ought, out of private revenge, to make that caſe worſe than it is, the which at beſt may prove bad; but all men learn to pity thoſe whom frowning Fortune <hi>tramples</hi> down, leſt one day fate may wheel about, and they themſelves vainly may the like implore.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
